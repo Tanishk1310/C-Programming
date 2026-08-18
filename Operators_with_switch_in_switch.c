@@ -1,3 +1,26 @@
+/*
+C Operators Calculator
+
+A menu-driven C program that demonstrates different types of operators using switch-case statements and nested switch-case structures.
+
+=>Operators Covered:
+Arithmetic Operators
+Relational / Comparison Operators
+Logical Operators
+Assignment Operators
+Increment / Decrement Operators
+
+
+=>Concepts Used
+switch-case
+Nested switch-case
+if-else
+User input using scanf()
+Output using printf()
+Basic C operators
+Division-by-zero handling
+*/
+
 #include <stdio.h>
 int main()
 {
